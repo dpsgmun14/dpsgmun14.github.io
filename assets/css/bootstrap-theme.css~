@@ -90,7 +90,7 @@
 	.jumbotron p { font-size:inherit; }
 	.jumbotron h2, .jumbotron h3, .jumbotron h4, 
 	.jumbotron h5, .jumbotron h6 { line-height: 1.3em; }
-.container-hollow { -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding-left:40px; padding-right:40px; opacity:0.2;}
+.container-hollow { -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; padding-left:40px; padding-right:40px; opacity:0.4;}
 
 /*******************************/
 /*           Images            */

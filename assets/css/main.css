@@ -97,6 +97,13 @@ img.pull-left { margin-right: 10px; }
     overflow: hidden;
 }
 
+.exec-member-thumb{
+    position: relative;
+    overflow: hidden;
+border-left: 51px solid white;
+border-right: 51px solid white;
+}
+
 .team-inner {
     margin-top:10px;
 }
