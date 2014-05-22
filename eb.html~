@@ -213,7 +213,7 @@
 			<!-- /Article -->
 			
 			<!-- Sidebar -->
-			<aside class="col-sm-4 sidebar sidebar-right">
+			<aside style="border-left: 1px solid black;" class="col-sm-4 sidebar sidebar-right">
 
 				<div class="widget">
 					<h4>Quick Links</h4>
@@ -286,8 +286,8 @@
 								<a href="index.html">Home</a> | 
 								<a href="messages.html">Messages</a> |
 								<a href="committees.html">Committees</a> |
-								<a href="eb.html">Executive Board</a> |
-								<a href="#">Secretariat</a> |
+								<a href="#">Executive Board</a> |
+								<a href="sec.html">Secretariat</a> |
 								<a href="ip.html">International Press</a> |
 								<a href="resources.html">Resources</a> 
 							</p>
