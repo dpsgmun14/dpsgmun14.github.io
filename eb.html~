@@ -213,7 +213,7 @@
 			<!-- /Article -->
 			
 			<!-- Sidebar -->
-			<aside style="border-left: 1px solid black;" class="col-sm-4 sidebar sidebar-right">
+			<aside class="col-sm-4 sidebar sidebar-right">
 
 				<div class="widget">
 					<h4>Quick Links</h4>
