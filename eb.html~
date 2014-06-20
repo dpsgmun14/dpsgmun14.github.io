@@ -42,11 +42,7 @@
 					<li class="active"><a href="#">Exec. Board</a></li>
 					<li><a href="sec.html">Secretariat</a></li>
 					<li><a href="ip.html">International Press</a></li>
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
-						<ul class="dropdown-menu">
-							<li><a href="#">Resource 1</a></li>
-							<li><a href="#">Resource 2</a></li>
+					<li><a href="resources.html">Resources</a></li>
 						</ul>
 					</li>
 					<li><a href="contact.html">Contact</a></li>
@@ -252,7 +248,7 @@
 							<p>+91 9971004071</p>
 <p>
 									<br>
-								<a href="dpsgmun14@gmail.com">dpsgmun14@gmail.com/a><br>
+								<a href="dpsgmun14@gmail.com">dpsgmun14@gmail.com</a><br>
 								<br>
 								Site No. 3, Meerut Road, Ghaziabad. 201003
 							</p>	
