@@ -43,8 +43,6 @@
 					<li><a href="sec.html">Secretariat</a></li>
 					<li><a href="ip.html">International Press</a></li>
 					<li><a href="resources.html">Resources</a></li>
-						</ul>
-					</li>
 					<li><a href="contact.html">Contact</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
@@ -107,22 +105,22 @@
                         <li class="col-lg-3 col-md-3 col-sm-6 ">
                             <div class="text-center">
                                 <div class="exec-member-thumb">
-                                    <img src="images/exec/hrc_president.jpg" class="img-responsive" alt="member 1" />
+                                    <img src="images/exec/hrc_cp1.jpg" class="img-responsive" alt="member 1" />
                                 </div>
                                 <div class="team-inner">
-                                    <p class="team-inner-header">Mohith ghauri</p>
-                                    <p class="team-inner-subtext">President</p>
+                                    <p class="team-inner-header">Amlan Panda</p>
+                                    <p class="team-inner-subtext">Co-President</p>
                                 </div>
                             </div>
                         </li>
                         <li class="col-lg-3 col-md-3 col-sm-6 ">
                             <div class="text-center">
                                 <div class="exec-member-thumb">
-                                    <img src="images/exec/hrc_vp.jpg" class="img-responsive" alt="member 1" />
+                                    <img src="images/exec/hrc_cp2.jpg" class="img-responsive" alt="member 1" />
                                 </div>
                                 <div class="team-inner">
                                     <p class="team-inner-header">Parth Gauri</p>
-                                    <p class="team-inner-subtext">Vice President</p>
+                                    <p class="team-inner-subtext">Co-President</p>
                                 </div>
                             </div>
                         </li>		
