@@ -55,10 +55,10 @@
 	<header id="head">
 		<div class="container">
 			<div class="row">
-				<h1 class="lead" style="color:red;">A week to go!</h1>
+				<h1 class="lead" style="color:red;">3 days to go!</h1>
 				<h3 style="color:maroon;">For DPSG MUN</a></h3>
 				<h4 style="color:maroon;" class="tagline"></a></h4>
-				<p> <a href="https://www.facebook.com/groups/316654261815403/350304488450380/" class="btn btn-action btn-lg" role="button">Join us on fb !</a></p>
+				<p> <a href="https://www.facebook.com/groups/316654261815403/350304488450380/" class="btn btn-action btn-lg" role="button">Join us on fb!</a></p>
 			</div>
 		</div>
 	</header>
